@@ -165,6 +165,8 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+ML+Enthusiast;DSA+Learner;Always+Exploring+Tech"/>
 </p>
 
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiva676466&theme=onedark)](https://github.com/shiva676466/github-profile-trophy)
 
 ## 📚 Currently Learning
 
@@ -199,3 +201,4 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
