@@ -102,7 +102,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📦 DSA Package
 
