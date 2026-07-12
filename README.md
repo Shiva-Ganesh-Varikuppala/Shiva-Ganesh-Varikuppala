@@ -108,7 +108,7 @@
 
 Interactive **Data Structures & Algorithms Learning Platform** built in Python with quizzes, theory, code examples, animations, and level-based learning.
 
-🔗 **Repository:** [DSA-Package](https://github.com/shiva676466/DSA-Package)
+🔗 **Repository:** [DSA-Package](https://github.com/Shiva-Ganesh-Varikuppala/DSA-Package)
 
   
 <br>
