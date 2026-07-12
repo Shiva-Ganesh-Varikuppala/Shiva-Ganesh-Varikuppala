@@ -115,9 +115,9 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva-Ganesh-Varikuppala&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiva-Ganesh-Varikuppala&layout=compact&theme=tokyonight"/>
 </p>
 
 <br/>
@@ -125,13 +125,13 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva676466&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiva-Ganesh-Varikuppala&theme=tokyonight"/>
 
 <br>
 
 ## 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight&cache_seconds=1"/>
+<img src="https://streak-stats.demolab.com/?user=Shiva-Ganesh-Varikuppala&theme=tokyonight&cache_seconds=1"/>
 </p>
 
 <br/>
@@ -143,7 +143,7 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva676466&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiva-Ganesh-Varikuppala&theme=tokyo-night)
 
 
 ## 💻 LeetCode Journey
@@ -160,7 +160,7 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=shiva676466&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shiva-Ganesh-Varikuppala&style=for-the-badge)
 
 
 ## 👨‍💻 About Me
