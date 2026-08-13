@@ -114,12 +114,6 @@ Interactive **Data Structures & Algorithms Learning Platform** built in Python w
   
 <br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva-Ganesh-Varikuppala&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiva-Ganesh-Varikuppala&layout=compact&theme=tokyonight"/>
-</p>
 
 <br/>
 
