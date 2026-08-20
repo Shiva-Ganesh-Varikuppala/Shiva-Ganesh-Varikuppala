@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00F7FF&height=280&section=header&text=Shiva%20Ganesh%20Varikuppala&fontSize=50&fontAlignY=35&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=20&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:071A3D,70:0066FF,100:00F7FF&height=300&section=header&text=SHIVA%20GANESH%20VARIKUPPALA&fontSize=52&fontAlignY=38&desc=AI%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20PYTHON%20DEVELOPER&descAlignY=65&descSize=19&fontColor=00F7FF&animation=twinkling"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Python+%7C+Deep+Learning+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%A7%A0"/>
 </p>
 
 <p align="center">
