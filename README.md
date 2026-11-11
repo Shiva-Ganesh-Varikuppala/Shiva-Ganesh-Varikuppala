@@ -108,14 +108,42 @@
 
 ## 🚀 Featured Projects
 
-### 📦 DSA Package
+### 🏥 MedSync – Healthcare & Medication Management System
 
-Interactive **Data Structures & Algorithms Learning Platform** built in Python with quizzes, theory, code examples, animations, and level-based learning.
+A full-stack healthcare management application designed to simplify healthcare interactions between doctors, patients, pharmacy staff, and administrators.
+
+✨ **Key Features:**
+- 👨‍⚕️ Doctor Dashboard – Patient management and digital prescription creation.
+- 💊 Prescription Management – Manage prescriptions and identify potential drug interactions.
+- ⏰ Smart Medication Reminders – Medication schedules and dose reminders.
+- 📅 Appointment Management – Book, cancel, confirm, and reschedule appointments.
+- 🏥 Pharmacy Inventory – Medicine stock management and expiry alerts.
+- 🔐 Secure Authentication – JWT authentication and role-based access control.
+- 📩 Notifications – Email and SMS notifications.
+
+🛠️ **Tech Stack:**
+- Frontend: React.js, Vite
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Authentication: JWT, bcrypt
+- Integrations: Nodemailer, Twilio
+
+🔗 **Repository:** [MedSync](https://github.com/Shiva-Ganesh-Varikuppala/MedSync)
+
+---
+
+### 📦 DSA Package – Interactive Learning Platform
+
+An interactive **Data Structures & Algorithms Learning Platform** built in Python with quizzes, theory, code examples, animations, and level-based learning.
+
+✨ **Key Features:**
+- 📚 Interactive DSA learning modules.
+- 🧠 Topic-wise quizzes and assessments.
+- 💻 Practical code examples.
+- 🎯 Level-based learning experience.
+- ⚡ Interactive animations and visualizations.
 
 🔗 **Repository:** [DSA-Package](https://github.com/Shiva-Ganesh-Varikuppala/DSA-Package)
-
-  
-<br>
 
 
 <br/>
