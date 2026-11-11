@@ -124,7 +124,7 @@ A full-stack healthcare management application designed to simplify healthcare i
 🛠️ **Tech Stack:**
 - Frontend: React.js, Vite
 - Backend: Node.js, Express.js
-- Database: MySQL
+- Database: MySQL, Azure Database for MySQL
 - Authentication: JWT, bcrypt
 - Integrations: Nodemailer, Twilio
 
